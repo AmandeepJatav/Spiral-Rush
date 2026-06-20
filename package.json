@@ -1,0 +1,20 @@
+{
+  "name": "spiral-rush",
+  "version": "3.0.0",
+  "description": "Spiral Rush — real-time multiplayer maze racer with a global competitive platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "socket.io-client": "^4.8.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

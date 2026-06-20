@@ -1,0 +1,7 @@
+node_modules/
+data/players.json
+data/players.json.tmp
+.env
+npm-debug.log*
+.DS_Store
+Thumbs.db
